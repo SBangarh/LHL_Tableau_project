@@ -20,9 +20,9 @@ I saved the Tableau worksheet and used the figures in presentation.
 
 I chose option 2 and the FAA Wildlife Strikes data.
 
-My analysis indicated that over 95% of collisions were due to birds and the majority of collisions did not cause damage. I also found that the number of collisions with wildlife have increased year over year and there is no apparant trend in cost. Furthermore, the majority of collisiosn occur in California, Texas, Florida, and New York. The majority of collision with birds occur in Q3 which indicates seasonality - perhaps migration. Overall, the number of collisions is expected to increase, the average cost - monetary - is expected to decrease, but there is uncertainty over the days out of service. 
+My analysis indicated that over 95% of collisions were due to birds and the majority of collisions did not cause damage. I also found that the number of collisions with wildlife have increased year over year and there is no apparant trend in cost. Furthermore, the majority of collisiosn occur in California, Texas, Florida, and New York. The majority of collision with birds occur in Q3 which indicates seasonality - perhaps migration. The number of collisions is expected to increase, the average cost - monetary - is expected to decrease, but there is uncertainty over the days out of service. In sum, the airline industry should care because the number of collisions is going to increase, and while the average monetary cost is expected to decrease, the historic trends for both costs - monetary and days out of service - are chaotic which makes risk management more difficult. 
 
-
+My overall question was, "Why care about wildlife strikes?," and then I developed some more as I analyzed the data.
 My inital analysis indicated that the majority of collisions were from birds, and I decided to further bird collisions in the data.
 My data question(s) were the following:
     Dashboard 1 - Overview
